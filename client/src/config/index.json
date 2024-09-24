@@ -1,0 +1,122 @@
+{
+  "company": {
+    "name": "xrAI",
+    "logo": "/assets/images/WhatsApp Image 2023-12-23 at 9.37.07 AM.jpeg",
+    "href": "/"
+  },
+  "navigation": [
+    {
+      "name": "Features",
+      "href": "features"
+    },
+    {
+      "name": "About",
+      "href": "about"
+    }
+  ],
+  "callToAction": {
+    "text": "Get started",
+    "href": "register"
+  },
+  "formImage": "https://mirxes.com/blog/wp-content/uploads/2022/09/Chest-radiography.jpg",
+  "dummyUser": "Saif",
+  "mainHero": {
+    "title": "Generate Reports easily with",
+    "subtitle": "xrAI",
+    "description": "xrAI is a tool that capitalizes on the power of Artifical Intelligence and empowers Doctors and Medical Professionals to automatically generate clinically valid diagnosis of Chest X-rays. This is big step to hasten up the process of medical treatment by generating textual reports in matter of seconds!",
+    "img": "https://media.istockphoto.com/id/92988886/photo/chest-x-ray-image-for-physicians-examination.jpg?s=612x612&w=0&k=20&c=BNbsxzfiHWIQHgaDCb-nw8t0nmzFOsgAwGDeMBdMx5I=",
+    "primaryAction": {
+      "text": "Register",
+      "href": "/signup"
+    },
+    "secondaryAction": {
+      "text": "Login",
+      "href": "/login"
+    }
+  },
+  "product": {
+    "title": "What exactly is xrAI?",
+    "items": [
+      {
+        "title": "A tool to aid Medical Professionals",
+        "description": "The integration of AI-powered tools to generate textual reports for Chest X-rays has emerged as a valuable asset in the realm of medical diagnostics. This technology, driven by advanced algorithms and machine learning, enables medical professionals to expedite the analysis of radiological images and enhance the accuracy of diagnostic reports. By automating the process of identifying abnormalities, such as lung nodules or pulmonary infiltrates, the tool assists healthcare professionals in rapidly assessing critical information, leading to quicker decision-making and more timely patient care. Moreover, the AI-generated reports provide a standardized and structured format, aiding in communication between radiologists, clinicians, and other healthcare team members.",
+        "img": "https://img.freepik.com/free-vector/doctor-nurse-study-discuss-xray-patient-lung-image-man-pulmonologist-woman-therapist-assistant-examine-fluorography-result-disease-determination_575670-456.jpg"
+      },
+      {
+        "title": "A way towards better medicine",
+        "description": "The integration of AI for generating textual reports from Chest X-rays represents a significant stride toward advancing medicine. This technology expedites diagnosis, enhances accuracy, and facilitates seamless communication among healthcare professionals. By streamlining the interpretation process, AI contributes to quicker decision-making, ultimately leading to more timely and effective patient care. This integration signifies a pivotal step in harnessing technology to augment medical capabilities, fostering a future where precision and efficiency converge for better healthcare outcomes.",
+        "img": "data:image/jpeg;base64,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"
+      }
+    ]
+  },
+  "features": {
+    "title": "Powered by...",
+    "subtitle": "All the best technologies out there!",
+    "description": "The project is a combination of both Natural Language and Computer Vision, hence we have used Python programming langauge for achieving these tasks! While other technologies such as NextJS, Tailwind CSS and TypeScript is used in designing the web interface.",
+    "items": [
+      {
+        "name": "Python",
+        "description": "Python is a high-level, interpreted programming language known for its readability, simplicity, and versatility, widely used in web development, data science, artificial intelligence, and more.",
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQklMpab46tLrTvR1qHLLDHdjsghCerfvlDERg_OwH29w&s"
+      },
+      {
+        "name": "Tailwind",
+        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "icon": "/assets/images/tailwindcss.svg"
+      },
+      {
+        "name": "Next.js",
+        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "icon": "/assets/images/nextjs.svg"
+      },
+      {
+        "name": "Typescript",
+        "description": "TypeScript is a programming language developed and maintained by Microsoft.",
+        "icon": "/assets/images/ts.png"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Team Behind xrAI",
+    "items": [
+      {
+        "name": "Ali Ammar",
+        "features": ["388849", "BSCS 10-C"],
+        "image": "public/assets/images/s1.png"
+      },
+      {
+        "name": "Saad Subhani",
+
+        "features": ["", "BSCS 10-C", "Group Leader"]
+      },
+      {
+        "name": "Saif Ali",
+        "features": ["336561", "BSCS 10-C"]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "About",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Tools",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Team",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/issaafalkattan",
+      "twitter": "https://twitter.com/issaafkattan",
+      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+    }
+  }
+}
